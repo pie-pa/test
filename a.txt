@@ -2,3 +2,6 @@
 456
 789
 123
+printf('')
+console.log(23)
+console.error(32)
